@@ -7,6 +7,7 @@
  - For production build just run ```npm run build```
 # Flow Chart
  - ![image](https://user-images.githubusercontent.com/51445301/167425217-162c46ba-7f43-4021-98f8-63dee5ef7127.png)
+ - ![image](https://user-images.githubusercontent.com/51445301/167425656-fdbed779-2404-454f-9863-dc8668b9fd70.png)
 # How to use:
  - Clone the repository.
  - Npm Install.
