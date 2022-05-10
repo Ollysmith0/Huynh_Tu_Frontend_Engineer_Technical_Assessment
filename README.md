@@ -13,4 +13,5 @@
  - Npm Install.
  - Npm start.
  - You are good to go!
-
+# Vercel build:
+https://vercel.com/furniture-layout1/huynh-tu-frontend-engineer-technical-assessment/6Y4hsGDoAf2yCouxu5CW8EmmYCjM
